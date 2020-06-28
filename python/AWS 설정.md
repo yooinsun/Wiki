@@ -1,4 +1,4 @@
-## AWS 설정 6단계
+<span style="color:red"> AWS 설정 6단계</span>
 
 1. OTP 설정
 2. EC2 생성
