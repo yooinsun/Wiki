@@ -1,4 +1,4 @@
-<span style="color:red"> AWS 설정 6단계</span>
+## AWS 설정 6단계
 
 1. OTP 설정
 2. EC2 생성
@@ -7,7 +7,7 @@
 5. jupyter notebook 설치
 6. mysql 설치 및 설정
 
-## AWS 설정 6단계 - 설명
+## AWS 설정 6단계 ( 설명 )
 
 __1. OTP 설정__
 - otp 설정을 하면, 이메일,패스워드와 은행 otp 카드 인증번호까지 확인해야 로그인이 가능하다. 즉 해킹의 위험이 줄어든다
