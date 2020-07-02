@@ -1,0 +1,18 @@
+[TOC]
+
+> ## :clipboard: 목차
+>
+>[](#)
+
+## :heavy_check_mark: 고유값 분해와 특이값 분해 공통점
+
+: 고유값 분해와 특이값 분해는 기본적으로 행렬 A 에 대해서 3가지로 분해한다는 것이다.
+
+>![math_image](https://latex.codecogs.com/gif.latex?\large&space;c~1~x~1~&space;&plus;&space;c~2~x~2~&space;&plus;&space;...&space;&plus;&space;c~N~x~N~&space;=&space;0)
+
+## 고유값 벡터
+
+## 대칭행렬의 고유값 부호
+#### 1. 대칭행렬이 양의 정부호라는 것은 어떤 의미일까?
+
+## 고유분해의 성질
