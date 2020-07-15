@@ -1,0 +1,35 @@
+> ## :clipboard: 목차
+>
+>[확률분포](#paragraph1)
+>
+>[확률질량함수](#paragraph2)
+>
+>[누적분포함수](#paragraph3)
+>
+>[확률밀도함수](#paragraph4)
+>
+
+
+## :heavy_check_mark: 확률분포 <a name="paragraph1"></a>
+
+#### 1. 정의
+
+: 함수에 대한 정보를 의미한다. 즉, 각각의 사건(부분집합) 에 할당되어 있는 확률값에 대한 정보를 정리해놓은 것을 말한다.
+
+#### 2. 종류
+
+#### 확률분포를 다른 사람에게 전달할 때 어떻게하면 가장 효율적으로 전달할 수 있을까?
+- 사건이 유한할 경우 : 확률질량함수
+- 사건이 무한할 경우 : 누적분포함수, 확률밀도함수
+
+
+
+## :heavy_check_mark: 확률질량함수(Probability Distribution Function) <a name="paragraph2"></a>
+
+## :heavy_check_mark: 누적분포함수(Cumulative Distribution Fuction) <a name="paragraph3"></a>
+
+## :heavy_check_mark: 확률밀도함수(Probability Density Frunction) <a name="paragraph4"></a>
+
+#### 1. 정의
+: 누적분포함수의 기울기를 구하기 위해 미분한 것이다. 이를 통해, 어느 구간에 확률이 많이 할당되어있고, 어느 구간에 확률이 적게 할당되었는지 알 수 있다.
+
